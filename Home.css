@@ -838,7 +838,7 @@
   font-weight: 700;
   text-transform: uppercase;
   animation-duration: 1000ms;
-  margin: 70px auto 0;
+  margin: 80px auto 0;
 }
 
 .u-section-4 .u-icon-1 {
@@ -1074,7 +1074,7 @@
   }
 
   .u-section-4 .u-btn-1 {
-    margin-top: 0;
+    margin-top: 18px;
   }
 }.u-section-5 {
   background-image: none;
