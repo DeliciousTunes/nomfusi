@@ -31,7 +31,7 @@
 }
 
 .u-section-1 .u-layout-cell-2 {
-  min-height: 847px;
+  min-height: 900px;
   background-image: none;
 }
 
@@ -57,13 +57,14 @@
 }
 
 .u-section-1 .u-text-3 {
-  margin: 48px 20px 0 0;
+  font-size: 1rem;
+  margin: 44px 20px 0 0;
 }
 
 .u-section-1 .u-btn-1 {
   border-style: none none solid;
   background-image: none;
-  margin: 16px auto 0 0;
+  margin: 20px auto 0 0;
   padding: 0;
 }
 
@@ -85,7 +86,7 @@
   }
 
   .u-section-1 .u-layout-cell-2 {
-    min-height: 698px;
+    min-height: 742px;
   }
 
   .u-section-1 .u-container-layout-2 {
