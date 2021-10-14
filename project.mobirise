@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Nomfusi - Singer Songwriter from South Africa",
-    "currentPage": "live.html",
+    "currentPage": "videos.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -2398,6 +2398,45 @@
             "gallery": [
               {
                 "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2021817-832182021-8-5-9-4-50.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/stzdcXWZ6MI",
+                "image": "@PROJECT_PATH@/assets/images/background5.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/background5.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Wave of Love - Live",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2021817-832182021-8-5-9-5-17.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/qw09SnTJjVc",
+                "image": "@PROJECT_PATH@/assets/images/background7.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/background7.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "You Are - Live",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2021817-832182021-8-5-9-5-5.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/IGS50zNG95U",
+                "image": "@PROJECT_PATH@/assets/images/background6.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/background6.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Iqaqa - Official Music Video ",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2021817-832182021-8-5-8-58-44.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/MIEM88AfGrM",
@@ -2446,45 +2485,6 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "African Day - Live",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2021817-832182021-8-5-9-4-50.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/stzdcXWZ6MI",
-                "image": "@PROJECT_PATH@/assets/images/background5.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/background5.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Wave of Love - Live",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2021817-832182021-8-5-9-5-5.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/IGS50zNG95U",
-                "image": "@PROJECT_PATH@/assets/images/background6.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/background6.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Iqaqa - Official Music Video ",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2021817-832182021-8-5-9-5-17.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/qw09SnTJjVc",
-                "image": "@PROJECT_PATH@/assets/images/background7.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/background7.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "You Are - Live",
                 "active": false
               },
               {
