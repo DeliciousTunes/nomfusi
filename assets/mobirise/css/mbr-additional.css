@@ -1113,6 +1113,30 @@ a {
 .cid-sIjdqZu0FF .soc-item:hover span {
   color: #f60d55 !important;
 }
+.cid-sOOYS7gcUW {
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  background-color: #000000;
+}
+.cid-sOOYS7gcUW .card-wrapper {
+  display: flex;
+}
+@media (max-width: 991px) {
+  .cid-sOOYS7gcUW .card-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-sOOYS7gcUW .mbr-iconfont {
+  font-size: 2rem;
+  color: #6592e6;
+  padding-right: 1.5rem;
+}
+.cid-sOOYS7gcUW .card-title {
+  color: #f60d55;
+}
+.cid-sOOYS7gcUW .card-text {
+  color: #ffffff;
+}
 .cid-sHWd1ctxkA {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -3573,6 +3597,35 @@ a {
 }
 .cid-sJfHgXdFxT .sign {
   color: #f60d55;
+}
+.cid-sOOXUxsetR {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #000000;
+}
+.cid-sOOXUxsetR .row {
+  flex-direction: row-reverse;
+}
+.cid-sOOXUxsetR .video-wrapper iframe {
+  width: 100%;
+}
+.cid-sOOXUxsetR .mbr-section-title,
+.cid-sOOXUxsetR .mbr-description {
+  text-align: center;
+}
+@media (min-width: 992px) {
+  .cid-sOOXUxsetR .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-sOOXUxsetR .mbr-section-title {
+  color: #f60d55;
+}
+.cid-sOOXUxsetR .mbr-section-subtitle {
+  color: #f60d55;
+}
+.cid-sOOXUxsetR .mbr-text {
+  color: #ffffff;
 }
 .cid-sJfGN9hn3L .dropdown-item:before {
   font-family: MobiriseIcons !important;
