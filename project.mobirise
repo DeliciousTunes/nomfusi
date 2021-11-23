@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Nomfusi - Singer Songwriter from South Africa",
-    "currentPage": "index.html",
+    "currentPage": "videos.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -2462,6 +2462,19 @@
                 "active": false
               },
               {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise20211023-10992021-10-2-10-10-19.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/zyFfHKC8zmI",
+                "image": "@PROJECT_PATH@/assets/images/mobirise20211018-939322021-10-4-9-42.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise20211018-939322021-10-4-9-42-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Nontsokolo - Live",
+                "active": true
+              },
+              {
                 "tags": "Awesome",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2021817-832182021-8-5-9-4-50.jpg",
                 "playVideo": true,
@@ -2563,7 +2576,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Nontsokolo - Live",
-                "active": true
+                "active": false
               }
             ]
           }
