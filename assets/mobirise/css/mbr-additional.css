@@ -1075,41 +1075,6 @@ a {
     left: -1rem;
   }
 }
-.cid-sJfrjelbZE {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #000000;
-}
-@media (max-width: 767px) {
-  .cid-sJfrjelbZE .row {
-    flex-direction: column-reverse;
-  }
-  .cid-sJfrjelbZE .mbr-figure {
-    margin-bottom: 1.5rem;
-  }
-}
-.cid-sJfrjelbZE .row {
-  align-items: center;
-}
-@media (min-width: 992px) {
-  .cid-sJfrjelbZE .text-wrapper {
-    padding: 0 2rem;
-  }
-}
-.cid-sJfrjelbZE .media-content,
-.cid-sJfrjelbZE .mbr-figure {
-  align-self: center;
-}
-.cid-sJfrjelbZE .mbr-figure iframe {
-  width: 100%;
-}
-.cid-sJfrjelbZE .mbr-section-title {
-  color: #ffffff;
-}
-.cid-sJfrjelbZE .mbr-text,
-.cid-sJfrjelbZE .mbr-section-btn {
-  color: #ffffff;
-}
 .cid-sIjdqZu0FF {
   padding-top: 15px;
   padding-bottom: 15px;
